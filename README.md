@@ -1,3 +1,3 @@
 # passvu
 
-![alt text](system_design.png)
+![alt text](system.png)
